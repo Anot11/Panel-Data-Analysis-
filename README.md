@@ -10,5 +10,4 @@ Topics covered in this repository include.
 5.	Durbin-Watson-Test
 6.	White-Test
 7.	Breusch-Pagan-Test
-
 "Difference-in-differences" file includes empirical model about house pricing and incinerator. In 1980, there was the news that a garbage incinerator would be built somewhere in Springfield; In 1981, We want to know the effect of the garbage on house prices.
